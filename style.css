@@ -834,14 +834,13 @@ img {
 body {
     background-image: url(./images/bg-tablet-pattern.svg), url(./images/bg-tablet-pattern.svg);
     background-repeat: no-repeat;
-    background-position: 124% 0%, 275% 20%;
-    background-size: 300px;
+    background-position: 124% -4%, 275% 20%;
+    background-size: 400px;
 }
 
 @media screen and (min-width: 50em) {
     body {
-        background-repeat: no-repeat;
         background-position: 105% 0%, -25% 45%;
-        background-size: 450px;
+        background-size: 500px;
     }
 }
