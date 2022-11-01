@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/mobile-first-workflow-using-only-html-and-css-XzMG4edyHw)
-- Live Site URL: [GitHub Pages](https://donchriscorleone.github.io/news-homepage-solution/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/mobile-first-using-plain-css-and-js-with-a11y-slider-fWhUuSUDmk)
+- Live Site URL: [GitHub Pages](https://donchriscorleone.github.io/manage-landing-page-solution/index.html)
 
 ## My process
 
